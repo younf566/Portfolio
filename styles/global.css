@@ -52,6 +52,7 @@ body {
 #top-header img {
     width: 400px;
     height: auto;
+    align-items:center;
 }
 
 #top-header h1 {
